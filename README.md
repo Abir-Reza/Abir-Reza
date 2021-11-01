@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying masters in Computer Science at Christian-Albrecht University of Kiel,Germany
 - 🌱 I’m currently learning technologies for Software Development
-- ⚡ Fun fact: I like travelling and meeting with new people and learn about their culture and history.
+- ⚡ Fun fact: I like travelling and meeting with new people and know about their culture and history.
 
 
 <br />
@@ -34,7 +34,7 @@
 
 <img align="left" alt="SQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" width="72px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
 
