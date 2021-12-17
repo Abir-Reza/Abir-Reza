@@ -1,4 +1,4 @@
-### Hi there 👋 I am Abir Reza. Welcome to my github  profile
+### Hi there 🖐, I am [Abir Reza](https://abir-reza-portfolio.web.app) 
 
 
 
@@ -9,7 +9,18 @@
 
 <br />
 
-### Languages and Tools:
+## 🚀 Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-reza)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abir-Reza)
+
+## 🚀 Developer Portfolio 
+
+<a href="https://abir-reza-portfolio.web.app" target="_blank">abir-reza-portfolio.web.app</a>
+
+
+
+### Languages and Tools
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
@@ -30,7 +41,7 @@
 [![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)]()
 
 
-### DataBase:
+### DataBase
 
 <img align="left" alt="SQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
