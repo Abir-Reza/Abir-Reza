@@ -8,6 +8,15 @@
 
 
 <br />
+## 🚀 Professional Experiennce 
+# Full-Stack Software Developer, [Sachtleben Technology](https://www.sachtleben-technology.com/), Bad Lautenberg, Germany
+October 2022 - Present
+- Developing a Laboratory Information Management System
+- Writing API for both front-end and backend
+- State management and data rendering
+- DataBase Design and API Development    
+Technologies: JavaScript, React Js, React-Redux, Express JS, REST API, Html, Material-UI, No-SQL, MongoDb
+
 
 ## 🚀 Connect with me
 
@@ -65,8 +74,7 @@
   
 1. Client-Side : https://github.com/Abir-Reza/House-Sell-ClientSide-React-Application 
 2. Server-Side: https://github.com/Abir-Reza/House-sell-ServerSide-Application
-3. Live Link: https://dream-house-fullstack.web.app/
-4. Technologies: **React JS, Express JS, MongoDB, FireBase Authetication, Heroku** 
+3. Technologies: **React JS, Express JS, MongoDB, FireBase Authetication, Heroku** 
 </details>
 
 
