@@ -8,6 +8,7 @@
 
 
 <br />
+
 ## 🚀 Professional Experience 
 **Full-Stack Software Developer, [Sachtleben Technology](https://www.sachtleben-technology.com/), Bad Lautenberg, Germany**
 October 2022 - Present
