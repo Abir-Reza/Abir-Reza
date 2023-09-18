@@ -8,8 +8,8 @@
 
 
 <br />
-## 🚀 Professional Experiennce 
-# Full-Stack Software Developer, [Sachtleben Technology](https://www.sachtleben-technology.com/), Bad Lautenberg, Germany
+## 🚀 Professional Experience 
+**Full-Stack Software Developer, [Sachtleben Technology](https://www.sachtleben-technology.com/), Bad Lautenberg, Germany**
 October 2022 - Present
 - Developing a Laboratory Information Management System
 - Writing API for both front-end and backend
