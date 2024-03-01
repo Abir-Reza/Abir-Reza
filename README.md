@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently studying masters in Computer Science at Christian-Albrecht University of Kiel,Germany
+- 🔭 I’m currently writting masters thesis in Computer Science at Christian-Albrecht University of Kiel,Germany
 - 🌱 I’m currently working as a Fullstack Software Developer in Germany
 - ⚡ Fun fact: I like travelling and meeting with new people and know about their culture and history.
 
