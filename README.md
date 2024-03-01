@@ -13,7 +13,7 @@
 **Full-Stack Software Developer, [Sachtleben Technology](https://www.sachtleben-technology.com/), Bad Lautenberg, Germany**
 October 2022 - Present
 - Developing a Laboratory Information Management System
-- Writing API for both front-end and backend
+- Writing API 
 - State management and data rendering
 - DataBase Design and API Development    
 Technologies: JavaScript, React Js, React-Redux, Express JS, REST API, Html, Material-UI, No-SQL, MongoDb
